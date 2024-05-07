@@ -2,7 +2,7 @@
 
 <h1 align="center" id="title">Predicting Hotel Booking Cancellations</h1>
 
-<p align="center"><img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.onthebeach.co.uk%2Fhotels%2Fportugal%2Falgarve%2Fpraia-da-rocha%2Fjupiter-algarve-hotel&amp;psig=AOvVaw1jlmdWlly6_9DLzqsEFEip&amp;ust=1715204368188000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCIiL8qvA_IUDFQAAAAAdAAAAABAS" alt="project-image"></p>
+<p ![Hotel](https://bynder.onthebeach.co.uk/cdn-cgi/image/width=940,quality=70,fit=cover,format=auto/m/2f8438c581154bd0/original/Jupiter-Algarve-Hotel.jpg)
 
 <p id="description">This project explores the prediction of hotel booking cancellations using data wrangling exploratory data analysis (EDA) preprocessing techniques and various machine learning models including decision trees random forests linear regression XGBoost AdaBoost gradient boosting and k-nearest neighbors classifier.</p>
 
